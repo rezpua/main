@@ -49,8 +49,8 @@
   # phone_main: 380672349221
   # phone_hot: 380672349221
   # phone_fax: 380672349221
-  # email: info@realestate.kh.ua
-  # www: https://www.realestate.if.ua/
+  # email: info@realestate.zp.ua
+  # www: https://www.realestate.zp.ua/
 
 - type: realtor
   item: agent
@@ -59,8 +59,8 @@
   # phone_main: 380504949649
   # phone_hot: 380504949649
   # phone_fax: 380504949649
-  # email: agent@realestate.in.ua
-  # www: https://www.realestate.in.ua/
+  # email: agent@realestate.zp.ua
+  # www: https://www.realestate.zp.ua/
 
 #
 # Agency / ahentsiya
@@ -72,5 +72,5 @@
   # phone_main: 380504949649
   # phone_hot: 380504949649
   # phone_fax: 380504949649
-  # email: agency@realestate.in.ua
-  # www: https://www.realestate.in.ua/
+  # email: agency@realestate.zp.ua
+  # www: https://www.realestate.zp.ua/

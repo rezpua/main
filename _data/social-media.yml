@@ -8,7 +8,7 @@
 
 - name: facebook
   title: Facebook
-  url: https://www.facebook.com/groups/realestate.kh.ua
+  url: https://www.facebook.com/groups/realestate.zp.ua
   w: 23
   h: 23
 
@@ -42,8 +42,8 @@
 
 - name: website
   title: Вебсайт
-  url: https://www.realestate.kh.ua/new
+  url: https://www.realestate.zp.ua/new
 
 - name: email
   title: Електронна пошта
-  url: mailto:info@realestate.kh.ua
+  url: mailto:info@realestate.zp.ua
