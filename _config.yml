@@ -118,7 +118,7 @@ jekyll_get_json:
   - data: od
     json: 'https://www.realestate.od.ua/region/data/options.json'
     cache: true
-  - data: zp
+  - data: if
     json: 'https://www.realestate.if.ua/region/data/options.json'
     cache: true
   - data: lt
