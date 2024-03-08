@@ -42,6 +42,7 @@
   phone_main: 380000000000
   phone_hot: 380000000000
   phone_fax: 380000000000
+  phone_buy: 380000000000
   email: agent@realestate.zp.ua
   www: https://www.realestate.zp.ua/
 
@@ -66,6 +67,7 @@
   phone_main: 380000000000
   phone_hot: 380000000000
   phone_fax: 380000000000
+  phone_buy: 380000000000
   email: agent@realestate.zp.ua
   www: https://www.realestate.zp.ua/
 
@@ -79,5 +81,6 @@
   phone_main: 380000000000
   phone_hot: 380000000000
   phone_fax: 380000000000
+  phone_buy: 380000000000
   email: agent@realestate.zp.ua
   www: https://www.realestate.zp.ua/
