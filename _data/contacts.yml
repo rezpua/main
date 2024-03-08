@@ -14,23 +14,23 @@
 #
 # District
 #
-- type: district
-  item: zaporizkyy
-  name: Нерухомість у Запорізькому районі
+# - type: district
+#   item: zaporizkyy
+#   name: Нерухомість у Запорізькому районі
 
 #
 # District / Town
 #
-- type: town
-  item: huliaipole
-  name: Нерухомість в місті Гуляйполе
+# - type: town
+#   item: huliaipole
+#   name: Нерухомість в місті Гуляйполе
 
 #
 # Region / City
 #
-- type: city
-  item: zaporizhzhia
-  name: Нерухомість у місті Запоріжжя
+# - type: city
+#   item: zaporizhzhia
+#   name: Нерухомість у місті Запоріжжя
 
 #
 # Developers / Company
@@ -38,6 +38,12 @@
 - type: developer
   item: builder
   name: Будівельна компанія "Будівельник"
+  address: 69000, м. Запоріжжя, вул.&nbsp;Степана&nbsp;Бандери,&nbsp;0
+  phone_main: 380000000000
+  phone_hot: 380000000000
+  phone_fax: 380000000000
+  email: agent@realestate.zp.ua
+  www: https://www.realestate.zp.ua/
 
 #
 # Realtor / Agent
@@ -45,22 +51,22 @@
 - type: realtor
   item: bandera
   name: Нерухомість в Запоріжжі - Степан Бандера
-  # address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
-  # phone_main: 380672349221
-  # phone_hot: 380672349221
-  # phone_fax: 380672349221
-  # email: info@realestate.zp.ua
-  # www: https://www.realestate.zp.ua/
+  address: 69000, м. Запоріжжя, вул.&nbsp;Степана&nbsp;Бандери,&nbsp;0
+  phone_main: 380000000000
+  phone_hot: 380000000000
+  phone_fax: 380000000000
+  email: agent@realestate.zp.ua
+  www: https://www.realestate.zp.ua/
 
 - type: realtor
   item: agent
   name: Нерухомість від Агента Продавця
-  # address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
-  # phone_main: 380504949649
-  # phone_hot: 380504949649
-  # phone_fax: 380504949649
-  # email: agent@realestate.zp.ua
-  # www: https://www.realestate.zp.ua/
+  address: 69000, м. Запоріжжя, вул.&nbsp;Степана&nbsp;Бандери,&nbsp;0
+  phone_main: 380000000000
+  phone_hot: 380000000000
+  phone_fax: 380000000000
+  email: agent@realestate.zp.ua
+  www: https://www.realestate.zp.ua/
 
 #
 # Agency / ahentsiya
@@ -68,9 +74,9 @@
 - type: agency
   item: ahentsiya
   name: Нерухомість від Агенції Продавця
-  # address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
-  # phone_main: 380504949649
-  # phone_hot: 380504949649
-  # phone_fax: 380504949649
-  # email: agency@realestate.zp.ua
-  # www: https://www.realestate.zp.ua/
+  address: 69000, м. Запоріжжя, вул.&nbsp;Степана&nbsp;Бандери,&nbsp;0
+  phone_main: 380000000000
+  phone_hot: 380000000000
+  phone_fax: 380000000000
+  email: agent@realestate.zp.ua
+  www: https://www.realestate.zp.ua/
