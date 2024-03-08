@@ -74,8 +74,7 @@
                                 <p class="h6 mt-1">{{ site.data.uk.phone_buy_sell }}:</p>
                             </div>
                             <div class="col-md-5">
-                              {%- assign phone_buy_sell = data.contact.phone_buy | default: site.contact.phone_buy_sell -%}
-                              {%- include phone-brand.html n=phone_buy_sell -%}
+                              {%- include footer/contact.html legal="phone_buy" -%}
                             </div>
                         </div>
                         <div class="row">
